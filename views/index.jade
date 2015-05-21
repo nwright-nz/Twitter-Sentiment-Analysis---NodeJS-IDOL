@@ -1,0 +1,16 @@
+﻿extends layout
+
+
+block content
+  .jumbotron
+    h1 Express
+    p.lead Express is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.
+    p
+      a.btn.btn-primary.btn-large(href='http://expressjs.com/') Learn more &raquo;
+  .row
+  
+   
+    script(type="text/javascript")
+   - var socket = io.connect('http://localhost:3000')
+   - socket.on('news', function (data) {
+   - console.log(data)})
