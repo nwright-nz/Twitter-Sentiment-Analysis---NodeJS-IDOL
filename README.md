@@ -5,7 +5,7 @@
 line-height:27.0pt;mso-outline-level:1'><span style='font-size:24.0pt;
 font-family:"HP Simplified",sans-serif;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:"Times New Roman";color:black;mso-font-kerning:18.0pt'>Twitter
-and IDOL On Demand Sample using Node.JS and Express framework<o:p></o:p></span></p>
+and IDOL On Demand Sample using Node.JS, Express framework and Socket.IO<o:p></o:p></span></p>
 
 <p class=MsoNormal style='mso-margin-bottom-alt:auto;line-height:16.5pt'><span
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
